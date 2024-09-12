@@ -52,7 +52,5 @@ export default function InformationBox({info}) {
           </Card>
         </div>
       </div>
-      
-      
     )
 }
